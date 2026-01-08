@@ -2,8 +2,8 @@
 
 
 vless://SERVERNETT-TELEGRAM@iup.sernett.ir:80?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#@KAFING_2
-vless://42c62a5a-cd31-4551-e0ef-908732370287@skk.moe:443?path=%2Fstar%2F&security=tls&encryption=none&host=cm.6691888.xyz&type=ws&sni=cm.6691888.xyz#WQ%202%20%28%40filterking1%29%20free
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@91.107.244.15:443?mode=gun&security=none&encryption=none&type=grpc#@KAFING_2
+vless://42c62a5a-cd31-4551-e0ef-908732370287@skk.moe:443?path=%2Fstar%2F&security=tls&encryption=none&host=cm.6691888.xyz&type=ws&sni=cm.6691888.xyz#WQ%202%20%28%40filterking1%29%20free
 vless://TELEGRAM-NUFiLTER-6@ir.fast.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024&security=&encryption=none&host=tamoome.global.ssl.fastly.net&type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40NUFiLTER%285%29
 vless://%658c%612868-7306-487d-81b2-9c570f08d48%65@www.speedtest.net:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048&security=none&encryption=none&host=t%65st3.%61m%69n8263.%69%72&type=ws#%40TEHRANARGO
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.26.27.158:2096?path=%2F%3Fed%3D2560%26&security=tls&encryption=none&insecure=0&host=sni.111000.de5.net&type=ws&allowInsecure=0&sni=sni.111000.de5.net#@KAFING_2
@@ -23,3 +23,4 @@ vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@208.103.161.33:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#@KAFING_2
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@8.47.69.0:2053?path=%2F&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#@KAFING_2
 vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@25.129.197.138:2096?path=%2F%3Fed%3D2560%26Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&security=tls&encryption=none&host=sni.111000.de5.net&type=ws&sni=sni.111000.de5.net#@KAFING_2
+vless://TELEGRAM-NUFiLTER-10@ir.fast.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D1024&security=&encryption=none&host=onlygod.global.ssl.fastly.net&type=ws#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%40NUFiLTER
