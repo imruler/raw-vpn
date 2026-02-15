@@ -12,6 +12,7 @@ ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg@154.12.242.150:443#%E2%9A%A1Telegram
 vless://77d5adeb-20de-4718-92e2-bdc10b89d5b0@188.212.97.216:443?security=reality&type=tcp&headerType=&path=&host=&sni=speedtest.net&fp=chrome&pbk=sNSlX-q54RaBoGH5v7nhGUXn2uSiDn0tdXUsQVh3iGY&sid=5dd9dacb22bbc98c#Tunnel%202%F0%9F%87%A9%F0%9F%87%AA
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@172.64.152.23:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n2.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P2-4
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#%F0%9F%87%AE%F0%9F%87%B7%20IR%2057%20%40Outline_Vpn
+vless://b94eddb7-4a73-4f70-8295-bcfc7c7c5c48@169.40.32.197:1286?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM&headerType=http&type=tcp#%40EXPRESSVPN_420%E2%98%86
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@104.18.12.149:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n3.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P3-3
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@104.18.32.47:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n1.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P1-5
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@104.18.32.47:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n2.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P2-5
@@ -27,5 +28,3 @@ vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@45.130.125.160:2052?encryption=none
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@45.130.125.160:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n2.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P2-1
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@198.62.62.99:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n1.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P1-6
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@172.64.152.23:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n3.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P3-4
-vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@104.18.12.149:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n2.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P2-3
-vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@104.16.121.147:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n3.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P3-2
