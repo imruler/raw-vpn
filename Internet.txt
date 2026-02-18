@@ -27,5 +27,5 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?encryption=none&t
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@KAFING_2
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n1.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P1-4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#@KAFING_2
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2049%20%40filterking1
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2046%20%40filterking1
+vless://75ca4109-700c-4581-99b3-5f4a5accb3e0@213.177.176.52:36217?security=none&encryption=none&host=Google.com&headerType=http&type=tcp#%D8%AD%D8%A7%D9%84%D8%A7%20%D9%84%D8%A7%20%D9%84%D8%A7%DB%8C%20%D9%84%D8%A7%20%D9%84%D8%A7%DB%8C
+vless://fed05faf-401f-3412-b658-5c96f3095dd0@91.132.51.160:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.refersion.com&fp=random&security=reality&pbk=qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ&sid=e164b85aec8a7422#VL
