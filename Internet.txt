@@ -27,5 +27,5 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.170:2052?encryption=none
 vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#@KAFING_2
 vless://dca945d2-6d9b-434f-8754-3626a6a75e21@172.64.152.23:2095?path=%2F%3Fed%3D2096&security=none&encryption=none&host=aza002.vaslbash.site&type=httpupgrade#@KAFING_2
 vless://8038f7de-9bba-4ebd-8352-556bc7316c11@sky2.hupcloud.com:1001?security=none&encryption=none&host=reata.ir&headerType=http&type=tcp#@KAFING_2
+vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443?mode=auto&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net&fp=firefox&type=xhttp&allowInsecure=1&sni=speedtest.net#%40EXPRESSVPN_420%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 vless://a92723d9-b3ef-438b-9ea6-6047af9c6658@104.16.121.147:2096?path=%2Fnimcllub%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=tArjomak.onliNe&fp=chrome&type=httpupgrade&allowInsecure=0&sni=tarjoMak.onLIne.#%40TEHRANARGO
-vless://a92723d9-b3ef-438b-9ea6-6047af9c6658@172.64.152.23:2096?path=%2Fnimcllub%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=tArjomak.onliNe&fp=chrome&type=httpupgrade&allowInsecure=0&sni=tarjoMak.onLIne.#%40TEHRANARGO
