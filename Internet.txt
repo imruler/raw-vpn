@@ -11,8 +11,9 @@ vless://403b2b80-703b-4498-eb92-96be57848d39@3.120.149.184:50256?security=&encry
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#@KAFING_2
 vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=0&host=mopd.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=mopd.global.ssl.fastly.net#TEL%3A%40EXPRESSVPN_420%F0%9F%87%A9%F0%9F%87%AA-2
 vless://ac612bd4-af0f-4b25-b7b3-28a978fbeb17@172.64.152.170:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n2.digionix.ir&path=/pabloping&security=none#%E2%98%81%EF%B8%8F%20%7C%20P2-6
-vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#@KAFING_2
+vless://064059ce-23b9-45d3-953d-57d4c5092874@chatgpt.com:443?path=%2FeyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&insecure=0&host=026.electrocellco-cf-026.workers.dev&type=ws&allowInsecure=0&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV#%40EXPRESSVPN_420%20%F0%9F%87%A9%F0%9F%87%AA
 vless://9a5a118d-06ab-4064-fe4b-89e47f1368b2@3.70.129.145:443?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%207
+vless://d8ade4cc-c672-4195-964b-473f21584100@cf.gafe-marz.ir:2083?mode=multi&security=tls&encryption=none&authority=austrish.digishopcenter.ir&insecure=0&type=grpc&serviceName=Love&allowInsecure=0&sni=austrish.digishopcenter.ir#@KAFING_2
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.185.26:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%F0%9F%9B%A1%20V%2018%20%40filterking1
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#%F0%9F%9B%A1%20V%2085%20%40filterking1%40filterking1
 vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.75.222.155:443?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%202
@@ -20,12 +21,11 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%
 vless://fca42527-0f5f-4227-9554-ba32702fe90c@3.68.89.231:443?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%202
 vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.199.156.124:18694?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%206
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@3.70.230.188:443?security=&encryption=none&headerType=&type=tcp#%40TEHRANARGO%207
+vless://90b9fe99-5bd4-4fa8-a290-4987833adb22@chatgpt.com:443?path=%2FeyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&encryption=none&insecure=0&host=tck-cmhdwom6nlm1k50eelcbh6kum4ob.s90786383.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV#%40EXPRESSVPN_420%20%F0%9F%87%BA%F0%9F%87%B8%201
 vless://6a03f18d-c94d-417c-9e25-625c7f76ff92@3.71.13.143:11924?security=&encryption=none&headerType=&type=tcp#%40TEHRANARGO%2011
 vless://69c3ec92-9c48-44bc-cfbc-a37ee0c4461a@3.120.146.221:443?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%204
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%40TEHRANARGO%2018
 vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@3.79.240.151:50170?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%207
-vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%205
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2082%20%40filterking1
-vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.79.235.30:443?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%205
-vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.79.235.30:443?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%203
-vless://9b4bf821-7aa5-48f1-8de4-c072c0574f90@18.194.145.240:33356?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%201
+vless://be016e95-d119-44d7-8a79-677740d5116d@chatgpt.com:443?path=%2Fvless-tls&security=tls&encryption=none&insecure=0&host=nnet.online&type=ws&allowInsecure=0&sni=vpn.nnet.online#%40EXPRESSVPN_420%201%20%F0%9F%87%A9%F0%9F%87%AA
+vless://c3f75f0e-3fe6-4037-95be-ec869c453dfc@chatgpt.com:80?path=%2FeyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=none&encryption=none&host=024.electrocellco-cf-024.workers.dev&type=ws#%40EXPRESSVPN_420%20%F0%9F%87%A6%F0%9F%87%BF
+vless://90b9fe99-5bd4-4fa8-a290-4987833adb22@chatgpt.com:443?path=%2FeyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI1LjEwLjIxNS4yNiIsIjIwNi4xNjYuMjUxLjkyIiwiMzcuNDguOTAuMTIwIiwiMTI1LjcuMjQuMjUxIiwiODAuNzYuMzIuMTIiXX0&security=tls&encryption=none&insecure=0&host=tck-cmhdwom6nlm1k50eelcbh6kum4ob.s90786383.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV#%40EXPRESSVPN_420%20%F0%9F%87%B9%F0%9F%87%B7
