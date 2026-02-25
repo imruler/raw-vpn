@@ -4,12 +4,12 @@
 vless://ec7414ac-4550-414d-afed-5f7ec74ddc32@3.120.177.126:443?security=none&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%202
 vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.124.4.215:59599?security=none&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%207
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.70.221.118:443?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%202
+vless://7553f8fe-2b75-4864-8717-00634a9e2e27@maxb08.ava-shop.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%E2%9A%A1Telegram%20%3D%20%40TEHRANARGO
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.0.54.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#%F0%9F%9B%A1%20V%2084%20%40filterking1
 vless://76755143-35fc-4b1f-a793-3b24d31f4f6a@3.125.43.133:17373?security=&encryption=none&headerType=&type=tcp#%40TEHRANARGO%2017
 vless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@18.156.128.77:15948?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%204
 vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.126.92.224:443?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%205
 vless://0d0b3fe7-cd79-4ff4-a760-aa6e5357ab41@172.67.175.86:443?path=%2Fpa&security=tls&encryption=none&insecure=0&host=hs-495e987f.ndkwiut2718.ir&fp=chrome&type=ws&allowInsecure=0&sni=ndkwiut2718.ir#@KAFING_2
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=%2F&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#@KAFING_2
 vless://79d24ca6-8f75-4653-9a9c-2d4ee38f4b88@chatgpt.com:443?security=tls&type=ws&host=nnet.online&path=/vless-tls&sni=nnet.online#Germany%202%20🇩🇪
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#@KAFING_2
 vless://10d7df50-b22d-406d-9e64-3e831fa0149e@18.196.12.46:44586?security=&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%203
@@ -26,6 +26,6 @@ vless://c21ba381-5808-4098-b94d-86c468a683d9@3.125.43.74:443?security=none&encry
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.195.116.169:443?security=none&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%206
 vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%F0%9F%9B%A1%20V%20105%20%40filterking1
 vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20108%20%40filterking1
+vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=%2F&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#@KAFING_2
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.97.173.243%3D443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20107%20%40filterking1
 vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=%2F&security=tls&encryption=none&host=rukawa.pages.dev&type=ws&sni=rukawa.pages.dev#%F0%9F%9B%A1%20V%20109%20%40filterking1
-vless://a6430e91-38ad-4254-b7db-d1fba6efd9e3@nodejs.org:443?path=%2F129.146.254.25%3A443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20106%20%40filterking1
