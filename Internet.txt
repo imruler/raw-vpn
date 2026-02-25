@@ -24,8 +24,8 @@ vless://a7fbea79-18c8-41b8-d519-457d66f2d798@3.71.200.12:443?security=&encryptio
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#@KAFING_2
 vless://c21ba381-5808-4098-b94d-86c468a683d9@3.125.43.74:443?security=none&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%201
 vless://7396c077-f5cb-4808-84ca-92f268d79b3d@18.195.116.169:443?security=none&encryption=none&headerType=none&type=tcp#%40TEHRANARGO%206
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%F0%9F%9B%A1%20V%20105%20%40filterking1
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@104.26.14.21:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20108%20%40filterking1
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=%2F&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#@KAFING_2
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.97.173.243%3D443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%20107%20%40filterking1
-vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=%2F&security=tls&encryption=none&host=rukawa.pages.dev&type=ws&sni=rukawa.pages.dev#%F0%9F%9B%A1%20V%20109%20%40filterking1
+vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@18.159.35.41:443?security=&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40TEHRANARGO
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@45.130.125.198:2053?security=tls&encryption=none&host=kaja.thisiswe.uno&fp=chrome&type=ws&sni=kaja.thisiswe.uno#%E2%9A%A1Telegram%20%3D%20%40TEHRANARGO
+vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@3.70.45.81:443?security=&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40TEHRANARGO
+vless://4ba18e09-571e-4b81-a360-8d74bb3a903e@18.192.210.130:44708?security=&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40TEHRANARGO
+vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@94.183.171.3:41314?security=&encryption=none&host=bmw.com&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40TEHRANARGO
